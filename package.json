@@ -1,0 +1,22 @@
+{
+  "name": "get-primes",
+  "version": "1.0.0",
+  "description": "Generating Prime Numbers in an Array",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "keywords": [
+    "Get",
+    "Prime",
+    "Numbers"
+  ],
+  "author": "Rukayat Odukoya",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2"
+  }
+}
